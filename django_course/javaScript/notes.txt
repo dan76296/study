@@ -1,0 +1,42 @@
+You can use > alert(<string>)
+
+A comment in javascript is > //anything here is a comment
+
+//Basic data types
+Integer 10
+Float 10.0
+Javascript treats them all the same
+
+//Strings
+"Hello World"
+"10"
+
+// Booleans -- Note: lowercase
+true
+false
+
+//undefined and null -- similar to None in python?
+undefined
+null
+
+4 * 4
+4 % 4
+
+"Django is cool"
+"Django" + "is super cool"
+
+"django".length
+"hello \n start a new line"
+
+"hello"[4] = "o"
+
+// VARIABLES -- var varName = value;
+var countRuns = 0;
+var bankAccount = 100;
+var deposit = 50;
+var totalBalance = bankAccount + deposit
+
+var greeting = "Welcome back: ";
+var name = "Dan";
+
+alert(greeting+name)
