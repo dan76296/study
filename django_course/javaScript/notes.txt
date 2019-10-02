@@ -40,3 +40,79 @@ var greeting = "Welcome back: ";
 var name = "Dan";
 
 alert(greeting+name)
+
+console.log(<string>)
+
+prompt("<String> <Question>")
+
+var age = prompt("<something>")
+
+// Operators
+<=
+>=
+<
+>
+2 == 2
+"2" == 2 //True
+"2" === 2 // False
+5 !== "5" // True
+5 != "5" //False
+
+true == 1; //True
+true === 1; //False
+
+null == undefined //true
+null === undefined //false
+
+// Logical Operators
+//AND
+1==1 && 2 == 2; // true
+
+//OR
+1 == 2 || 1 == 1; // true
+
+//NOT
+!(1==1) // false
+
+// Control Flow
+IF
+if (condition){
+    // execute code
+}
+
+IF ELSE
+if (condition){
+    execute
+}else{
+    execute
+    }
+
+IF, ELSE IF, ELSE
+if (condition one){
+    execute
+} else if (condition two){
+    execute
+}else{
+    execute
+    }
+
+// WHILE LOOPS
+while (condition){
+    execute code
+    while condition is true
+    }
+
+while (condition){
+    execute code
+    if (another condition){
+        break;
+        }
+
+// FOR LOOPS
+for (statement1; statement2; statement3){
+    execute code
+    }
+
+    statement 1 is executed before the loop starts
+    2 defines the condition for running the loop
+    3 is executed each time after the loop cycles through
